@@ -1,1 +1,9 @@
 https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921
+
+
+npm modules:
+autostart
+https://www.npmjs.com/package/node-autostart
+
+start browser through npm
+https://stackoverflow.com/questions/35261535/npm-scripts-start-run-express-and-open-url
